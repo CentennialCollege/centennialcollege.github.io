@@ -1,1 +1,1 @@
-centennialcollege.github.io
+Live Site Repo for Centennial College
